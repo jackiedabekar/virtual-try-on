@@ -1,0 +1,1400 @@
+[
+    {
+        "id": 1,
+        "annotations": [
+            {
+                "id": 1,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 70.56514913657772,
+                            "y": 18.02190525911764,
+                            "width": 8.555729984301408,
+                            "height": 4.191140757934331,
+                            "rotation": 0
+                        },
+                        "id": "w2ePH5BCsh",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 70.56514913657772,
+                            "y": 18.02190525911764,
+                            "width": 8.555729984301408,
+                            "height": 4.191140757934331,
+                            "rotation": 0,
+                            "labels": [
+                                "last_name"
+                            ]
+                        },
+                        "id": "w2ePH5BCsh",
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 70.56514913657772,
+                            "y": 18.02190525911764,
+                            "width": 8.555729984301408,
+                            "height": 4.191140757934331,
+                            "rotation": 0,
+                            "text": [
+                                "Srivatsa"
+                            ]
+                        },
+                        "id": "w2ePH5BCsh",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 79.74882260596546,
+                            "y": 18.02190525911764,
+                            "width": 6.593406593406598,
+                            "height": 3.6323219902097534,
+                            "rotation": 0
+                        },
+                        "id": "EXuopytPYF",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 79.74882260596546,
+                            "y": 18.02190525911764,
+                            "width": 6.593406593406598,
+                            "height": 3.6323219902097534,
+                            "rotation": 0,
+                            "labels": [
+                                "last_name"
+                            ]
+                        },
+                        "id": "EXuopytPYF",
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 79.74882260596546,
+                            "y": 18.02190525911764,
+                            "width": 6.593406593406598,
+                            "height": 3.6323219902097534,
+                            "rotation": 0,
+                            "text": [
+                                "Venkat"
+                            ]
+                        },
+                        "id": "EXuopytPYF",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 25.43171114599686,
+                            "y": 15.926334880150472,
+                            "width": 5.259026687598116,
+                            "height": 46.66136710500226,
+                            "rotation": 0
+                        },
+                        "id": "yVaGlzZRJ5",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 25.43171114599686,
+                            "y": 15.926334880150472,
+                            "width": 5.259026687598116,
+                            "height": 46.66136710500226,
+                            "rotation": 0,
+                            "labels": [
+                                "company_name"
+                            ]
+                        },
+                        "id": "yVaGlzZRJ5",
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 25.43171114599686,
+                            "y": 15.926334880150472,
+                            "width": 5.259026687598116,
+                            "height": 46.66136710500226,
+                            "rotation": 0,
+                            "text": [
+                                "Waterscience"
+                            ]
+                        },
+                        "id": "yVaGlzZRJ5",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 37.91208791208791,
+                            "y": 72.64643980419514,
+                            "width": 49.92150706436421,
+                            "height": 3.77202668214089,
+                            "rotation": 0
+                        },
+                        "id": "L-I8FPOQ1S",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 37.91208791208791,
+                            "y": 72.64643980419514,
+                            "width": 49.92150706436421,
+                            "height": 3.77202668214089,
+                            "rotation": 0,
+                            "labels": [
+                                "company_address"
+                            ]
+                        },
+                        "id": "L-I8FPOQ1S",
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 37.91208791208791,
+                            "y": 72.64643980419514,
+                            "width": 49.92150706436421,
+                            "height": 3.77202668214089,
+                            "rotation": 0,
+                            "text": [
+                                "A31 NGEF Industrial Estate, Whitefield Rd, Banglore 560048"
+                            ]
+                        },
+                        "id": "L-I8FPOQ1S",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 60.04709576138148,
+                            "y": 22.07334132512083,
+                            "width": 26.53061224489796,
+                            "height": 6.007301753039215,
+                            "rotation": 0
+                        },
+                        "id": "6Db5AxStFi",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 60.04709576138148,
+                            "y": 22.07334132512083,
+                            "width": 26.53061224489796,
+                            "height": 6.007301753039215,
+                            "rotation": 0,
+                            "labels": [
+                                "designation_in_company"
+                            ]
+                        },
+                        "id": "6Db5AxStFi",
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 60.04709576138148,
+                            "y": 22.07334132512083,
+                            "width": 26.53061224489796,
+                            "height": 6.007301753039215,
+                            "rotation": 0,
+                            "text": [
+                                "Manager - Market Development"
+                            ]
+                        },
+                        "id": "6Db5AxStFi",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 65.85557299843015,
+                            "y": 30.036508765196064,
+                            "width": 20.95761381475667,
+                            "height": 3.4926172982786134,
+                            "rotation": 0
+                        },
+                        "id": "UWrW7BfngR",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 65.85557299843015,
+                            "y": 30.036508765196064,
+                            "width": 20.95761381475667,
+                            "height": 3.4926172982786134,
+                            "rotation": 0,
+                            "labels": [
+                                "company_email_address"
+                            ]
+                        },
+                        "id": "UWrW7BfngR",
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 65.85557299843015,
+                            "y": 30.036508765196064,
+                            "width": 20.95761381475667,
+                            "height": 3.4926172982786134,
+                            "rotation": 0,
+                            "text": [
+                                "srivatsa@waterscience.in"
+                            ]
+                        },
+                        "id": "UWrW7BfngR",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 70.80062794348508,
+                            "y": 33.94824013926811,
+                            "width": 16.2480376766091,
+                            "height": 3.0735032224851793,
+                            "rotation": 0
+                        },
+                        "id": "N-VMeYrJE8",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 70.80062794348508,
+                            "y": 33.94824013926811,
+                            "width": 16.2480376766091,
+                            "height": 3.0735032224851793,
+                            "rotation": 0,
+                            "labels": [
+                                "company_mobile_number"
+                            ]
+                        },
+                        "id": "N-VMeYrJE8",
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 70.80062794348508,
+                            "y": 33.94824013926811,
+                            "width": 16.2480376766091,
+                            "height": 3.0735032224851793,
+                            "rotation": 0,
+                            "text": [
+                                "+9198804753334"
+                            ]
+                        },
+                        "id": "N-VMeYrJE8",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 69.30926216640503,
+                            "y": 77.11698994599175,
+                            "width": 18.44583987441129,
+                            "height": 4.051436066003205,
+                            "rotation": 0
+                        },
+                        "id": "U5BpkJ2x3W",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 69.30926216640503,
+                            "y": 77.11698994599175,
+                            "width": 18.44583987441129,
+                            "height": 4.051436066003205,
+                            "rotation": 0,
+                            "labels": [
+                                "company_website"
+                            ]
+                        },
+                        "id": "U5BpkJ2x3W",
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3072,
+                        "original_height": 1726,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 69.30926216640503,
+                            "y": 77.11698994599175,
+                            "width": 18.44583987441129,
+                            "height": 4.051436066003205,
+                            "rotation": 0,
+                            "text": [
+                                "www.waterscience.in"
+                            ]
+                        },
+                        "id": "U5BpkJ2x3W",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-09-24T06:59:29.513027Z",
+                "updated_at": "2025-09-24T07:07:03.640314Z",
+                "draft_created_at": "2025-09-24T06:52:56.256324Z",
+                "lead_time": 782.064,
+                "prediction": {},
+                "result_count": 8,
+                "unique_id": "f8049de9-6c88-4e0f-a76f-e2bde65f8056",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 1,
+                "project": 2,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "62f115e1-card_1.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "ocr": "\/data\/upload\/2\/62f115e1-card_1.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-09-24T06:52:28.577949Z",
+        "updated_at": "2025-09-24T07:07:03.706546Z",
+        "inner_id": 1,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 2,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 2,
+        "annotations": [
+            {
+                "id": 3,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 12.71585557299843,
+                            "y": 57.9411154882853,
+                            "width": 33.12401883830456,
+                            "height": 5.738129794733574,
+                            "rotation": 0
+                        },
+                        "id": "dI05W5IRMb",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 12.71585557299843,
+                            "y": 57.9411154882853,
+                            "width": 33.12401883830456,
+                            "height": 5.738129794733574,
+                            "rotation": 0,
+                            "labels": [
+                                "company_name"
+                            ]
+                        },
+                        "id": "dI05W5IRMb",
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 12.71585557299843,
+                            "y": 57.9411154882853,
+                            "width": 33.12401883830456,
+                            "height": 5.738129794733574,
+                            "rotation": 0,
+                            "text": [
+                                "TransForm Solutions (P) Limited"
+                            ]
+                        },
+                        "id": "dI05W5IRMb",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 62.166405023547874,
+                            "y": 55.56189093924944,
+                            "width": 24.175824175824182,
+                            "height": 6.018038565208371,
+                            "rotation": 0
+                        },
+                        "id": "tzL5njXAl-",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 62.166405023547874,
+                            "y": 55.56189093924944,
+                            "width": 24.175824175824182,
+                            "height": 6.018038565208371,
+                            "rotation": 0,
+                            "labels": [
+                                "company_name"
+                            ]
+                        },
+                        "id": "tzL5njXAl-",
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 62.166405023547874,
+                            "y": 55.56189093924944,
+                            "width": 24.175824175824182,
+                            "height": 6.018038565208371,
+                            "rotation": 0,
+                            "text": [
+                                "TransForm Solution, Inc."
+                            ]
+                        },
+                        "id": "tzL5njXAl-",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 12.558869701726833,
+                            "y": 64.79888036491808,
+                            "width": 36.499215070643636,
+                            "height": 11.196350818992379,
+                            "rotation": 0
+                        },
+                        "id": "UjxxMqVmn2",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 12.558869701726833,
+                            "y": 64.79888036491808,
+                            "width": 36.499215070643636,
+                            "height": 11.196350818992379,
+                            "rotation": 0,
+                            "labels": [
+                                "company_address"
+                            ]
+                        },
+                        "id": "UjxxMqVmn2",
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 12.558869701726833,
+                            "y": 64.79888036491808,
+                            "width": 36.499215070643636,
+                            "height": 11.196350818992379,
+                            "rotation": 0,
+                            "text": [
+                                "4th Floor, Ahura Mazda, Siddik Street Timaliyawad, Nanpura, Surat 395001"
+                            ]
+                        },
+                        "id": "UjxxMqVmn2",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 63.97174254317112,
+                            "y": 62.69956458635705,
+                            "width": 22.998430141287287,
+                            "height": 11.196350818992322,
+                            "rotation": 0
+                        },
+                        "id": "Fw73NWb6k5",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 63.97174254317112,
+                            "y": 62.69956458635705,
+                            "width": 22.998430141287287,
+                            "height": 11.196350818992322,
+                            "rotation": 0,
+                            "labels": [
+                                "company_address"
+                            ]
+                        },
+                        "id": "Fw73NWb6k5",
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 63.97174254317112,
+                            "y": 62.69956458635705,
+                            "width": 22.998430141287287,
+                            "height": 11.196350818992322,
+                            "rotation": 0,
+                            "text": [
+                                "160 Greentreee Drive #101 Dover, DE 19904, USA"
+                            ]
+                        },
+                        "id": "Fw73NWb6k5",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 17.722350612575372,
+                            "y": 78.76008793090736,
+                            "width": 17.896389324960744,
+                            "height": 4.198631557122114,
+                            "rotation": 359.1185960034179
+                        },
+                        "id": "QmIIk7V3A8",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 17.722350612575372,
+                            "y": 78.76008793090736,
+                            "width": 17.896389324960744,
+                            "height": 4.198631557122114,
+                            "rotation": 359.1185960034179,
+                            "labels": [
+                                "company_telephone_number"
+                            ]
+                        },
+                        "id": "QmIIk7V3A8",
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 17.722350612575372,
+                            "y": 78.76008793090736,
+                            "width": 17.896389324960744,
+                            "height": 4.198631557122114,
+                            "rotation": 359.1185960034179,
+                            "text": [
+                                "+91 261-334-0000"
+                            ]
+                        },
+                        "id": "QmIIk7V3A8",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 71.66405023547881,
+                            "y": 75.29545925772342,
+                            "width": 15.384615384615373,
+                            "height": 4.758449098071736,
+                            "rotation": 0
+                        },
+                        "id": "tUCVemcGsf",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 71.66405023547881,
+                            "y": 75.29545925772342,
+                            "width": 15.384615384615373,
+                            "height": 4.758449098071736,
+                            "rotation": 0,
+                            "labels": [
+                                "company_telephone_number"
+                            ]
+                        },
+                        "id": "tUCVemcGsf",
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 71.66405023547881,
+                            "y": 75.29545925772342,
+                            "width": 15.384615384615373,
+                            "height": 4.758449098071736,
+                            "rotation": 0,
+                            "text": [
+                                "+1 800-583-8949"
+                            ]
+                        },
+                        "id": "tUCVemcGsf",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-09-24T07:10:34.383834Z",
+                "updated_at": "2025-09-24T07:19:08.470226Z",
+                "draft_created_at": "2025-09-24T07:10:21.249183Z",
+                "lead_time": 359.278,
+                "prediction": {},
+                "result_count": 6,
+                "unique_id": "03ffe06e-6797-4189-a6bd-ed7791afb40c",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 2,
+                "project": 2,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "99f25815-card_2.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "ocr": "\/data\/upload\/2\/99f25815-card_2.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-09-24T06:52:28.578136Z",
+        "updated_at": "2025-09-24T07:19:08.542111Z",
+        "inner_id": 2,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 2,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 4,
+        "annotations": [
+            {
+                "id": 5,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 52.590266875981165,
+                            "y": 14.415301679452625,
+                            "width": 10.910518053375192,
+                            "height": 6.437901720920589,
+                            "rotation": 0
+                        },
+                        "id": "BsC06Rrt8M",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 52.590266875981165,
+                            "y": 14.415301679452625,
+                            "width": 10.910518053375192,
+                            "height": 6.437901720920589,
+                            "rotation": 0,
+                            "labels": [
+                                "first_name"
+                            ]
+                        },
+                        "id": "BsC06Rrt8M",
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 52.590266875981165,
+                            "y": 14.415301679452625,
+                            "width": 10.910518053375192,
+                            "height": 6.437901720920589,
+                            "rotation": 0,
+                            "text": [
+                                "Ramya"
+                            ]
+                        },
+                        "id": "BsC06Rrt8M",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 63.73626373626373,
+                            "y": 14.135392908977815,
+                            "width": 11.381475667189953,
+                            "height": 6.437901720920591,
+                            "rotation": 0
+                        },
+                        "id": "6yDIof3YFy",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 63.73626373626373,
+                            "y": 14.135392908977815,
+                            "width": 11.381475667189953,
+                            "height": 6.437901720920591,
+                            "rotation": 0,
+                            "labels": [
+                                "last_name"
+                            ]
+                        },
+                        "id": "6yDIof3YFy",
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 63.73626373626373,
+                            "y": 14.135392908977815,
+                            "width": 11.381475667189953,
+                            "height": 6.437901720920591,
+                            "rotation": 0,
+                            "text": [
+                                "Vichare"
+                            ]
+                        },
+                        "id": "6yDIof3YFy",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 45.29042386185244,
+                            "y": 20.293385859423594,
+                            "width": 28.335949764521196,
+                            "height": 5.178312253783954,
+                            "rotation": 0
+                        },
+                        "id": "pOgWrbyWKy",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 45.29042386185244,
+                            "y": 20.293385859423594,
+                            "width": 28.335949764521196,
+                            "height": 5.178312253783954,
+                            "rotation": 0,
+                            "labels": [
+                                "designation_in_company"
+                            ]
+                        },
+                        "id": "pOgWrbyWKy",
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 45.29042386185244,
+                            "y": 20.293385859423594,
+                            "width": 28.335949764521196,
+                            "height": 5.178312253783954,
+                            "rotation": 0,
+                            "text": [
+                                "Assistant Manager - Supply Chain"
+                            ]
+                        },
+                        "id": "pOgWrbyWKy",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 45.839874411302986,
+                            "y": 33.30914368650218,
+                            "width": 37.048665620094184,
+                            "height": 6.8577648766328,
+                            "rotation": 0
+                        },
+                        "id": "mxhSTin9Qj",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 45.839874411302986,
+                            "y": 33.30914368650218,
+                            "width": 37.048665620094184,
+                            "height": 6.8577648766328,
+                            "rotation": 0,
+                            "labels": [
+                                "company_name"
+                            ]
+                        },
+                        "id": "mxhSTin9Qj",
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 45.839874411302986,
+                            "y": 33.30914368650218,
+                            "width": 37.048665620094184,
+                            "height": 6.8577648766328,
+                            "rotation": 0,
+                            "text": [
+                                "Vijay Transtech Pvt. Ltd."
+                            ]
+                        },
+                        "id": "mxhSTin9Qj",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 48.27315541601256,
+                            "y": 40.7267261040846,
+                            "width": 32.10361067503925,
+                            "height": 15.814845531826663,
+                            "rotation": 0
+                        },
+                        "id": "qiVLvX0xX9",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 48.27315541601256,
+                            "y": 40.7267261040846,
+                            "width": 32.10361067503925,
+                            "height": 15.814845531826663,
+                            "rotation": 0,
+                            "labels": [
+                                "company_address"
+                            ]
+                        },
+                        "id": "qiVLvX0xX9",
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 48.27315541601256,
+                            "y": 40.7267261040846,
+                            "width": 32.10361067503925,
+                            "height": 15.814845531826663,
+                            "rotation": 0,
+                            "text": [
+                                "Bldg. No. A5 Mahavir Logiplex, Kalyan Nashik Road, Near sawad Naka, Aamne Village, Bhiwandi, Thane - 421302"
+                            ]
+                        },
+                        "id": "qiVLvX0xX9",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 49.293563579277865,
+                            "y": 80.47377151150737,
+                            "width": 26.216640502354785,
+                            "height": 4.758449098071736,
+                            "rotation": 0
+                        },
+                        "id": "FPS6owjsWn",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 49.293563579277865,
+                            "y": 80.47377151150737,
+                            "width": 26.216640502354785,
+                            "height": 4.758449098071736,
+                            "rotation": 0,
+                            "labels": [
+                                "company_email_address"
+                            ]
+                        },
+                        "id": "FPS6owjsWn",
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 49.293563579277865,
+                            "y": 80.47377151150737,
+                            "width": 26.216640502354785,
+                            "height": 4.758449098071736,
+                            "rotation": 0,
+                            "text": [
+                                "ramya@vijaytranstech.com"
+                            ]
+                        },
+                        "id": "FPS6owjsWn",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 49.92150706436421,
+                            "y": 86.49181007671575,
+                            "width": 22.8414442700157,
+                            "height": 4.05867717188471,
+                            "rotation": 0
+                        },
+                        "id": "iYsLhsRxcc",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 49.92150706436421,
+                            "y": 86.49181007671575,
+                            "width": 22.8414442700157,
+                            "height": 4.05867717188471,
+                            "rotation": 0,
+                            "labels": [
+                                "company_website"
+                            ]
+                        },
+                        "id": "iYsLhsRxcc",
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 49.92150706436421,
+                            "y": 86.49181007671575,
+                            "width": 22.8414442700157,
+                            "height": 4.05867717188471,
+                            "rotation": 0,
+                            "text": [
+                                "www.vijaytranstech.com"
+                            ]
+                        },
+                        "id": "iYsLhsRxcc",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 49.37205651491366,
+                            "y": 73.61600663487457,
+                            "width": 16.718995290423855,
+                            "height": 4.05867717188471,
+                            "rotation": 0
+                        },
+                        "id": "M_RMzQFr61",
+                        "from_name": "bbox",
+                        "to_name": "image",
+                        "type": "rectangle",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 49.37205651491366,
+                            "y": 73.61600663487457,
+                            "width": 16.718995290423855,
+                            "height": 4.05867717188471,
+                            "rotation": 0,
+                            "labels": [
+                                "company_mobile_number"
+                            ]
+                        },
+                        "id": "M_RMzQFr61",
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "original_width": 3024,
+                        "original_height": 1696,
+                        "image_rotation": 0,
+                        "value": {
+                            "x": 49.37205651491366,
+                            "y": 73.61600663487457,
+                            "width": 16.718995290423855,
+                            "height": 4.05867717188471,
+                            "rotation": 0,
+                            "text": [
+                                "+91-8108489174"
+                            ]
+                        },
+                        "id": "M_RMzQFr61",
+                        "from_name": "transcription",
+                        "to_name": "image",
+                        "type": "textarea",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-09-24T07:24:19.888173Z",
+                "updated_at": "2025-09-24T07:28:55.720807Z",
+                "draft_created_at": "2025-09-24T07:24:17.399914Z",
+                "lead_time": 285.67900000000003,
+                "prediction": {},
+                "result_count": 8,
+                "unique_id": "59ede00d-ca08-4fa1-8d9f-e5741c8ddd6e",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 4,
+                "project": 2,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "17bd4586-card_4.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "ocr": "\/data\/upload\/2\/17bd4586-card_4.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-09-24T06:52:28.578297Z",
+        "updated_at": "2025-09-24T07:28:55.786146Z",
+        "inner_id": 4,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 2,
+        "updated_by": 1,
+        "comment_authors": []
+    }
+]
