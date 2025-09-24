@@ -3,3 +3,4 @@ python-dotenv
 google-genai[aiohttp]
 pillow
 fastapi[standard]
+label-studio
