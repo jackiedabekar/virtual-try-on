@@ -73,3 +73,7 @@ def keep_active():
 
 if __name__ == "__main__":
     keep_active()
+
+
+# xhost +local:
+# python3 auto_run.py
